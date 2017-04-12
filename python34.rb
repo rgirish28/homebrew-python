@@ -2,8 +2,8 @@ class Python34 < Formula
   desc "Interpreted, interactive, object-oriented programming language"
   homepage "https://www.python.org/"
   head "https://hg.python.org/cpython", :using => :hg, :branch => "3.4"
-  url "https://www.python.org/ftp/python/3.4.5/Python-3.4.5.tar.xz"
-  sha256 "ee64b1c8a47461009abf25252332d29a4e587cb4f0c1c96aa793a3732e9d898a"
+  url "https://www.python.org/ftp/python/3.4.2/Python-3.4.2.tar.xz"
+  sha256 "1c6d9682d145c056537e477bbfa060ce727f9edd38df1827e0f970dcf04b2def"
 
   option :universal
   option "with-tcl-tk", "Use Homebrew's Tk instead of OS X Tk (has optional Cocoa and threads support)"
